@@ -1,0 +1,94 @@
+body > * {
+  background-color:white
+}
+
+.category{
+  padding-inline-start: 0px;
+  padding:15px;
+  text-align:right;
+  margin-block-start: 0px;
+  margin-block-end: 0px;  
+}
+
+.category > li {
+  display:inline-block;
+  box-shadow: 2px 2px 0px #808080;
+  font-size:12px;
+  width:55px;
+  padding:5px 10px;
+  text-align:center;
+  background-color:#FF007F;
+  color:white;
+}
+
+#main_text {
+  text-align:center;
+  margin:10px 0px;  
+}
+
+h1 {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  padding:20px 0px 5px;
+}
+
+#link {
+  padding:0px 0px 10px;
+}
+
+#link > li {
+  display:inline-block;
+  box-shadow: 2px 2px 0px #808080;
+  padding:40px 20px;
+  margin-right:15px;
+  color:white;
+  background-color:#FF007F;
+}
+
+#myhouse {
+  margin-top:10px;
+  margin-bottom:20px;
+}
+
+footer {
+  font-size:10px;
+  text-align:center;
+  padding:10px 0px;
+}
+
+#main2 {
+  margin:10px 0px;
+  padding:10px 5px;
+}
+
+#main2 > .aa1 {
+	margin-left:50px;
+}
+
+.aa1 > p {
+  margin-block-start: 0em;
+  font-size:14px;
+}
+
+.photo {
+	box-sizing:border-box;
+	height:320px;
+	margin-bottom:20px;
+}
+.photo > div {
+	float:left;	
+}
+
+.photo_me {	
+	margin : 0px 30px;
+}
+
+.explain_head {
+	width:600px;
+	margin : 0px 0px 5px;
+}
+
+.explain {
+	margin-block-start: 2px;
+    margin-block-end: 2px;
+}
